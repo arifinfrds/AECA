@@ -1,7 +1,22 @@
 # AECA
 Latihan &amp; Pengembangan
 
-#License
+# Deskripsi
+Aplikasi buatan Tim Like Star, Sebagai jembatan untuk para pebisnis dan pekerja Indonesia di kawasan ASEAN.
+
+# Fitur 
+- Penyedia informasi potensi bisnis di kasawan ASEAN
+- Penyedia lapangan kerja di kawasan ASEAN
+- Translator
+
+# Android - LCKS - Enumeration 2016
+Aplikasi AECA ikut berpartisipasi dalam IT Competition by Politeknik Elektronika Negeri Surabaya (Enumeration 2016)
+
+# Tim Like Star
+- Arifin Firdaus
+- Arif Rahman
+
+# License
 Copyright 2016 Like Star
 
    Licensed under the Apache License, Version 2.0 (the "License");
